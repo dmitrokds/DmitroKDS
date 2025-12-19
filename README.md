@@ -129,7 +129,7 @@ I am python backend software engineer with 4 years of experience. Proficient in 
 
 <ul>
   <li>Phone: +380665912275</li>
-  <li>Gmail: dmitrokdshiring</li>
+  <li>Gmail: dmitrokdshiring@gmail.com</li>
   <li>LinkedIn profile: <a href="https://www.linkedin.com/in/dmitrokds">dmitrokds</a></li>
 </ul>
 
